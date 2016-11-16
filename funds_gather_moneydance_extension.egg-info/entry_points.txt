@@ -1,0 +1,3 @@
+[console_scripts]
+funds_gather_moneydance_extension = funds_gather_moneydance_extension.funds_gather_moneydance_extension:main
+
